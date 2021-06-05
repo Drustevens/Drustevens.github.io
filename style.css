@@ -1,24 +1,23 @@
 body {
+
     background: linear-gradient(
         0.24turn,
         orange,
         teal
-
 );
 }
 
-h1, h2 {
+div {
     flex-basis: 50px;
     background: linear-gradient(
         0.40turn,
         lightBlue,
         darkRed
-    );
+);
     border: 2px solid fireBrick;
-    border-radius;
+    border-radius: 25px;
     color: darkBlue;
-    flex-basis: 50px;
-    padding: 10px;
+    padding: 3px;
     text-align: center;
 }
 
@@ -28,5 +27,4 @@ input {
 
 button {
     margin: 10px
-
 }
