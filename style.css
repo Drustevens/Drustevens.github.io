@@ -1,17 +1,23 @@
 body {
     background: linear-gradient(
-        to left,
-        #333,
-        #333 48%,
-        #eee 75%,
-        #333 75%
+        0.24turn,
+        orange,
+        teal
+
 );
 }
 
 h1, h2 {
-    border: 2px solid brown;
+    flex-basis: 50px;
+    background: linear-gradient(
+        0.40turn,
+        lightBlue,
+        darkRed
+    );
+    border: 2px solid fireBrick;
     border-radius;
-    color: brown;
+    color: darkBlue;
+    flex-basis: 50px;
     padding: 10px;
     text-align: center;
 }
