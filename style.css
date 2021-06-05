@@ -13,3 +13,7 @@ h1, h2 {
     padding: 10px;
     display: flex:
 }
+
+input {
+    margin: 10px;
+}
