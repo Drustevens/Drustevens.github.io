@@ -2,8 +2,12 @@ body {
     background: linear-gradient(
         to left,
         #333,
-        #333 50%,
+        #333 48%,
         #eee 75%,
         #333 75%
 );
+}
+
+h1, h2 {
+    color: darkRed;
 }
