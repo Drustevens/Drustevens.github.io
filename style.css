@@ -9,5 +9,7 @@ body {
 }
 
 h1, h2 {
-    color: darkRed;
+    color: brown;
+    padding: 10px;
+    display: flex:
 }
