@@ -9,11 +9,18 @@ body {
 }
 
 h1, h2 {
+    border: 2px solid brown;
+    border-radius;
     color: brown;
     padding: 10px;
-    display: flex:
+    text-align: center;
 }
 
 input {
     margin: 10px;
+}
+
+button {
+    margin: 10px
+
 }
