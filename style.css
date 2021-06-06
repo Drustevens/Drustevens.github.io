@@ -4,7 +4,13 @@ body {
         0.24turn,
         orange,
         teal
-);
+)
+}
+
+img {
+    width: 300px;
+    margin: 18px;
+    border-radius: 25px;
 }
 
 div {
